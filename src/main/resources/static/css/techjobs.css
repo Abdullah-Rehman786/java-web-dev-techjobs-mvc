@@ -44,3 +44,7 @@ label {
 .centered {
     text-align: center;
 }
+
+.jobLabel {
+    text-transform: uppercase;
+}
